@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/myriankatto/planteria-server#readme",
   "description": "",
-  "devDependencies": {
+  "dependencies": {
     "json-server": "^0.16.3"
   }
 }
